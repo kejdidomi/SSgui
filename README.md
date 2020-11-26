@@ -8,6 +8,6 @@ I am sure we all have seen something like: `Laplace2019 lightSource139x139-XYpad
 The problem here, as far as I'm concerned, is that we have to run many programs like this during the semester, and I think
 there is a better way to do all this.
 ## How to use
-1. Download the zip 
-2. Extract zip 
-Usually, do an "Extract here"
+1. Download ZIP 
+2. Extract ZIP 
+  - [ ] Usually, do an "Extract Here"
