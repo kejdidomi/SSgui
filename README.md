@@ -10,4 +10,4 @@ there is a better way to do all this.
 ## How to use
 1. Download ZIP 
 2. Extract ZIP 
-  - [ ] Usually, do an "Extract Here"
+>>Usually, do an "Extract Here"
