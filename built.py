@@ -6,8 +6,9 @@ full_executable={"":"empty"}
 full_images={"":"empty"}
 executable=[]
 images=[]
+PATH="your-path-here"
 
-for dirpath, dirs, files in os.walk("D:\FILES\Desktop_D\Y3S1\Signals_and_Systems"):  
+for dirpath, dirs, files in os.walk(PATH):  
   for filename in files: 
     fname = os.path.join(dirpath,filename) 
     if fname.endswith('.exe'): 
