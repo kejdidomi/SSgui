@@ -39,5 +39,5 @@ How to get the path of a folder
 Now you must see a simple window. In the first dropdown form you can select the program you want to run. In the second one you can select which .img file you want to process
 and in second and third you need to write the dimensions of that image as you do. Fifth form is reserved for additional commands you might wanna pass like we do in the Laplace2019 example.
 ## Limitations
-The interface is designed to pass a specific type of command of the form: <program> <image file> <image x dimension> <image y dimension> <...additional arguments>.
+The interface is designed to pass a specific type of command of the form: <..program..> <..image file..> <..image x dimension..> <..image y dimension..> <...additional arguments>.
 If in the future we deal with other programs that do not follow this order we might encounter problems, but nevertheless we can modify the program to fit our needs...
