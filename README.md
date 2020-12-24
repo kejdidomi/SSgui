@@ -42,6 +42,6 @@ and in second and third you need to write the dimensions of that image as you do
 The interface is designed to pass a specific type of command of the form: <..program..> <..image file..> <..image x dimension..> <..image y dimension..> <...additional arguments>.
 If in the future we deal with other programs that do not follow this order we might encounter problems, but nevertheless we can modify the program to fit our needs...
 ## What it looks like
-![App](images/App.jpg)
+![App](images/App.JPG)
 ![dropdown](images/dropdown.jpg)
 
