@@ -36,7 +36,7 @@ How to get the path of a folder
     - Be careful because if you have it saved in another drive like drive D: you need to type `D:` in command prompt to go to the desired path
 10. Type `python gui.py`
 
-Now you must see a simple window. In the first dropdown form tou can select the program you want to run. In the second one you can select which .img file you want to process
+Now you must see a simple window. In the first dropdown form you can select the program you want to run. In the second one you can select which .img file you want to process
 and in second and third you need to write the dimensions of that image as you do. Fifth form is reserved for additional commands you might wanna pass like we do in the Laplace2019 example.
 ## Limitations
 The interface is designed to pass a specific type of command of the form: <program> <image file> <image x dimension> <image y dimension> <...additional arguments>.
