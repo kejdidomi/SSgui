@@ -43,5 +43,5 @@ The interface is designed to pass a specific type of command of the form: <..pro
 If in the future we deal with other programs that do not follow this order we might encounter problems, but nevertheless we can modify the program to fit our needs...
 ## What it looks like
 ![App](images/App.JPG)
-![dropdown](images/dropdown.JPG)
+![dropdown](images/dropdown.png)
 
